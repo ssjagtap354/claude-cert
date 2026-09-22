@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Generate a Python one-liner to reverse a string."
+  },
+  {
+    "task": "Generate a SQL one-liner to find the maximum salary from an employees table."
+  },
+  {
+    "task": "Generate a Python one-liner to check if a number is even or odd."
+  }
+]
